@@ -1,5 +1,3 @@
-# Escalita.CDSS.HepB
-
 # Document Q&A con OpenAI y Kernel Memory
 
 Este proyecto es una aplicación de consola en C# que permite cargar documentos PDF en memoria utilizando [Microsoft Kernel Memory](https://github.com/microsoft/kernel-memory) y realizar preguntas sobre su contenido mediante la API de OpenAI (GPT-3.5-Turbo).
